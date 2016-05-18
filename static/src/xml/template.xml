@@ -1,0 +1,8 @@
+<templates>
+    <t t-extend="ImportView">
+        <t t-jquery="input.oe_import_file" t-operation="replace">
+            <input type="file" id-attf-id="file_#{_id}"
+               name="file" class="oe_import_file" accept=".csv, .xls, .xlsx, .ods, .json"/>
+        </t>
+    </t>
+</templates>

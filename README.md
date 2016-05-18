@@ -15,7 +15,7 @@ JSON Format
 
 the json file to import should be in such format: a list of object which use field as key. And it require all the item in this json get the same fields
 
-``json
+```JSON
 [
   {
     "name": "import",
@@ -26,6 +26,6 @@ the json file to import should be in such format: a list of object which use fie
     "value": 2
   }
 ]
-``
+```
 
 The json file that export by this module is conform this format.

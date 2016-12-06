@@ -1,5 +1,7 @@
 # base_import_json
 make Odoo9 can export and import as JSON format 
+It's also avaliable at [Odoo offical app store](https://apps.odoo.com/apps/modules/master/base_import_json/).
+
 
 =====
 Usage
